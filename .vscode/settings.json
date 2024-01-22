@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "hist.C": "cpp",
+        "gaus.C": "cpp",
+        "tgraph.C": "cpp",
+        "gaus_compare.C": "cpp"
+    }
+}
